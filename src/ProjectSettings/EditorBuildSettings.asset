@@ -4,5 +4,8 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Luminis/Contenido/Escenas/main.unity
+    guid: 12a040ef530df9742bd20a01f7124c58
   m_configObjects: {}
